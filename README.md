@@ -7,13 +7,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 Me agrada programar en Python particularmente
-
-- 🧑‍🎓 Apenas me gradue de la universidad
+- 🌱 Me agrada programar en Python y C# particularmente
 
 - 💬 Programacion en diversos lenguajes
 
-- 📫 Como pasa tiempo estudio VIM
+- 📫 Como pasa tiempo escucho música 
   
 - ⚡ Usare este espacio para poder compartir mis proyectos que he realizado
 
