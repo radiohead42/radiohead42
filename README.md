@@ -1,82 +1,130 @@
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-<h1 align="center">👋 Mi nombre es Manuel</h1>
-<h3 align="center">Ingeniero en Sistemas Computacionales | Explorador en nuevas tecnologias</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=radiohead42&label=Profile%20views&color=orange&style=for-the-badge" alt="scar1109" /> </p>
+<div align="center">
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 Me agrada programar en Python y C# particularmente
+# Manuel
 
-- 💬 Programacion en diversos lenguajes
+### Ingeniero en Sistemas Computacionales · Desarrollador Full Stack
 
-- 📫 Como pasa tiempo escucho música 
-  
-- ⚡ Usare este espacio para poder compartir mis proyectos que he realizado
+<p>
+  <a href="https://github.com/radiohead42">
+    <img src="https://komarev.com/ghpvc/?username=radiohead42&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" />
+  </a>
+</p>
 
-</td>
-<td width="50%" align="center">
+<p>
+  <em>Construyo soluciones web, APIs y aplicaciones orientadas a resolver problemas reales.</em>
+</p>
 
-  <img align="center" alt="Coding" width="450" src="https://raw.githubusercontent.com/radiohead42/radiohead42/master/sunset.jpg">
-  
-  </td>
-</tr>
-</table>
+</div>
 
 ---
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=radiohead42&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=radiohead42&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+## Sobre mí
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=radiohead42&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+Soy Ingeniero en Sistemas Computacionales con interés en el desarrollo de software, la creación de aplicaciones web y el análisis de datos. Me gusta aprender nuevas tecnologías, diseñar soluciones prácticas y mejorar continuamente la calidad de mis proyectos.
+
+Actualmente enfoco mi aprendizaje y desarrollo en:
+
+- Desarrollo backend con **C#/.NET**, APIs REST y **Python/Django**.
+- Desarrollo frontend con **Angular**, TypeScript, JavaScript y HTML/CSS.
+- Diseño y manejo de bases de datos con **SQL Server** y **MySQL**.
+- Automatización, web scraping y desarrollo de aplicaciones con Python.
+- Análisis y visualización de datos con Power BI y herramientas del ecosistema Python.
 
 ---
 
-### Languages and Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Tecnologías y herramientas
+
+### Lenguajes
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+### Frameworks y desarrollo web
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### Bases de datos y análisis
 
----
-### Analysis of Data
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=none&logoColor=white)
-![Power Pivot](https://img.shields.io/badge/Power_Pivot-F2C811?style=for-the-badge&logo=none&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-388E8E?style=for-the-badge&logo=seaborn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+### Herramientas
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## Proyectos
+
+### Aplicaciones y APIs con C# / .NET
+
+- [**CalorieTrack**](https://github.com/radiohead42/CalorieTrack) — Aplicación orientada al seguimiento y gestión de calorías.
+- [**StudyFlow**](https://github.com/radiohead42/StudyFlow) — Aplicación para organizar y gestionar actividades de estudio.
+- [**Api_Biblioteca**](https://github.com/radiohead42/Api_Biblioteca) — API para la gestión de una biblioteca.
+- [**ApiRest_Peliculas**](https://github.com/radiohead42/ApiRest_Peliculas) — API REST relacionada con la gestión de películas.
+- [**PeliculasRest**](https://github.com/radiohead42/PeliculasRest) — Proyecto enfocado en servicios REST de películas.
+- [**DesarrolloWebAPI**](https://github.com/radiohead42/DesarrolloWebAPI) — Proyecto de desarrollo de servicios web y APIs.
+
+### Frontend con Angular y TypeScript
+
+- [**StudyFlowFrontend**](https://github.com/radiohead42/StudyFlowFrontend) — Interfaz frontend para StudyFlow.
+- [**Angular**](https://github.com/radiohead42/Angular) — Proyectos y prácticas de desarrollo con Angular.
+- [**angular_peliculas**](https://github.com/radiohead42/angular_peliculas) — Aplicación frontend para consultar y gestionar información de películas.
+
+### Proyectos con Python
+
+- [**Django-proyecto-electrodomesticos**](https://github.com/radiohead42/Django-proyecto-electrodomesticos) — Aplicación web desarrollada con Django.
+- [**Asistente**](https://github.com/radiohead42/Asistente) — Proyecto experimental de asistente desarrollado con Python.
+- [**webScrapingPython**](https://github.com/radiohead42/webScrapingPython) — Prácticas y herramientas de extracción de datos web.
+- [**Juego_en_Python**](https://github.com/radiohead42/Juego_en_Python) — Proyecto de desarrollo de un juego utilizando Python.
+
+### Desarrollo web
+
+- [**PaginasWebEstaticas**](https://github.com/radiohead42/PaginasWebEstaticas) — Colección de páginas web estáticas.
+
+---
+
+## Estadísticas
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=radiohead42&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radiohead42&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Lenguajes más utilizados" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radiohead42&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones" />
+</div>
+
+---
+
+## Contacto
+
+Si quieres conversar sobre desarrollo de software, proyectos tecnológicos o colaboración, puedes encontrarme en:
+
+- **GitHub:** [@radiohead42](https://github.com/radiohead42)
+
+---
+
+<div align="center">
+  <sub>Gracias por visitar mi perfil.</sub>
+</div>
